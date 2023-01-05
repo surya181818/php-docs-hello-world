@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'helloapnx'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B06669A075064062BA7F560674BEB1E1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BA823B9E7174FE18381BFD97A6263DD }}
           package: .
